@@ -17,24 +17,21 @@
 
 ### My Tech Stack
 
-**Frontend & Web:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Programming & Logic:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+| area | Tecnologíes |
+| :--- | :--- |
+| **Web Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📊 Statistics:
+### My goal for 2026:
+- [ ] Create my first web portafolio.
+- [ ] Complete different logic excercise in C++.
+- [ ] Contribute to my first Open Source project.
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemical07&show_icons=true&theme=transparent&hide_border=true&title_color=7928ca&icon_color=7928ca&text_color=ffffff" alt="Estadísticas de lemical07" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemical07&layout=compact&theme=transparent&hide_border=true&title_color=7928ca&text_color=ffffff" alt="Lenguajes más usados" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase del día" />
 </p>
-
----
