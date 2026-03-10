@@ -1,10 +1,13 @@
-# Hi, I'm Selvin Eladio Lem Ical (lemical07)
+<div align="center">
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/lemical07/count.svg" alt="Visitas" />
-</p>
+# Hi, I'm Selvin Eladio Lem Ical
+### (lemical07)
 
-> **Develop in training | Exploring the world of Python C++ and the web.** 🚀
+<img src="https://img.shields.io/badge/Perfil_Visto-SÍ-blueviolet?style=for-the-badge&logo=github" alt="Logo" />
+
+> **Developer in training | Exploring the world of Python, C++ and the web. 🚀**
+
+</div>
 
 ---
 
