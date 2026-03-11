@@ -3,7 +3,9 @@
 # Hi, I'm Selvin Eladio Lem Ical
 ### (lemical07)
 
-<img src="https://img.shields.io/badge/Perfil_Visto-SÍ-blueviolet?style=for-the-badge&logo=github" alt="Logo" />
+<p align = "center">
+  <img src="Li Sel.jpg" with="150"
+</p>
 
 > **Developer in training | Exploring the world of Python, C++ and the web. 🚀**
 
