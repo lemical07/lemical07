@@ -4,7 +4,7 @@
 ### (lemical07)
 
 <p align = "center">
-  <img src="Li Sel.jpg" with="150"
+  <img src="Li Sel.png" with="150"
 </p>
 
 > **Developer in training | Exploring the world of Python, C++ and the web. 🚀**
