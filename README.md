@@ -36,6 +36,11 @@
 - [ ] Contribute to my first Open Source project.
 
 ---
+### My statistics
+![My Stats](https://github-readme-stats.vercel.app/api?username=lemical07&show_icons=true&theme=tokyonight)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemical07&layout=compact&theme=tokyonight)
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase del día" />
