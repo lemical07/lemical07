@@ -34,7 +34,7 @@ Buscando mi primera oportunidad como developer junior para aportar en proyectos 
 | Área | Tecnologías |
 |:---:|:---|
 | Frontend | HTML, CSS, JavaScript |
-| Backend | Python, Node.js, Express, PHP, Laravel, Java, Spring Boot, C#, .NET |
+| Backend | Python, Node.js|
 | Bases de datos | MySQL I, MySQL II |
 | Herramientas | GitHub, Git, Docker, VS Code |
 
