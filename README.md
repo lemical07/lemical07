@@ -1,6 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:0f766e,100:22c55e&text=Selvin%20Eladio%20Lem%20Ical&fontColor=ffffff&fontSize=42&desc=Full%20Stack%20Developer%20Junior&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" width="100%" />
 </div>
+<p align="center">
+  <img 
+    src="./assets/profile.jpg" 
+    width="150" 
+    height="150" 
+    style="border-radius: 50%; object-fit: cover;"
+    alt= "Foto de perfil"
+  >
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Junior;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Python+%7C+Node.js+%7C+JS+%7C+MySQL" alt="Typing SVG" />
