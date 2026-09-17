@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:111827,50:0f766e,100:22c55e&text=Developer%20Dashboard&fontColor=ffffff&fontSize=32&desc=Perfil%20profesional%20de%20GitHub&descSize=15&descAlignY=75" alt="Selvin Eladio Lem Ical" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:0f766e,100:22c55e&text=Selvin%20Eladio%20Lem%20Ical&fontColor=ffffff&fontSize=42&desc=Full%20Stack%20Developer%20Junior&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
-# Selvin Eladio Lem Ical
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Junior;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Python+%7C+Node.js+%7C+JS+%7C+MySQL" alt="Typing SVG" />
+</a>
 
 <div align="center">
 
