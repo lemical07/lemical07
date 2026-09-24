@@ -83,12 +83,10 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
   </tr>
 </table>
 
-<br>
-
 <img
 src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,mysql,postgres,git,github,docker,vscode&perline=11"
-alt="Stack técnico"
-/>
+alt="Stack técnico"/>
+<br>
 
 <br><br>
 
@@ -96,73 +94,13 @@ alt="Stack técnico"
 
 </div>
 
-<h2 align="center">Experiencia y proyectos</h2>
+## Experiencia y proyectos
 
-<div align="center">
-
-<table>
-  <tr>
-    <th colspan="3" align="center">Actualización de plataforma OMS</th>
-  </tr>
-  <tr>
-    <td colspan="3" align="left">
-      Construcción y prueba de APIs con Strapi 5, incluyendo operaciones CRUD completas mediante Postman. Resolución de un bloqueo de entorno migrando la ejecución de Docker a Node.js local.
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Stack</strong></td>
-    <td align="center">Strapi 5 · Node.js · Postman · Docker</td>
-    <td align="center"><strong>Experiencia profesional</strong></td>
-  </tr>
-
-  <tr>
-    <th colspan="3" align="center">TutorBot</th>
-  </tr>
-  <tr>
-    <td colspan="3" align="left">
-      Automatización de tutorías mediante asignación, validación de identidad y notificaciones automáticas al maestro y materia correspondiente.
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Stack</strong></td>
-    <td align="center">n8n · Google AI · Google Sheets · Telegram</td>
-    <td align="center">
-      <a href="https://github.com/canuxantonio502/automatizacion_tutorbot_n8n">Ver</a>
-    </td>
-  </tr>
-
-  <tr>
-    <th colspan="3" align="center">Gestión de Parque Vehicular</th>
-  </tr>
-  <tr>
-    <td colspan="3" align="left">
-      Sistema de control de estacionamiento para diferentes tipos de vehículos y gestión de espacios.
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Stack</strong></td>
-    <td align="center">HTML · CSS · JavaScript</td>
-    <td align="center">
-      <a href="https://github.com/lemical07/sistema-gestion-parqueo">Ver</a>
-    </td>
-  </tr>
-
-  <tr>
-    <th colspan="3" align="center">Tienda en línea</th>
-  </tr>
-  <tr>
-    <td colspan="3" align="left">
-      Maquetación de una interfaz de tienda online.
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Stack</strong></td>
-    <td align="center">HTML · CSS</td>
-    <td align="center">
-      <a href="https://github.com/lemical07/maquetacion-tienda-online">Ver</a>
-    </td>
-  </tr>
-</table>
+| **Actualización de plataforma OMS** | **TutorBot** |
+|:---:|:---:|
+| Construcción y prueba de APIs con Strapi 5, incluyendo operaciones CRUD completas mediante Postman. Resolución de un bloqueo de entorno migrando la ejecución de Docker a Node.js local.<br><br>**Stack:** Strapi 5 · Node.js · Postman · Docker<br><br>**Experiencia profesional** | Automatización de tutorías mediante asignación, validación de identidad y notificaciones automáticas al maestro y materia correspondiente.<br><br>**Stack:** n8n · Google AI · Google Sheets · Telegram<br><br>[Ver proyecto](https://github.com/canuxantonio502/automatizacion_tutorbot_n8n) |
+| **Gestión de Parque Vehicular** | **Tienda en línea** |
+| Sistema de control de estacionamiento para diferentes tipos de vehículos y gestión de espacios.<br><br>**Stack:** HTML · CSS · JavaScript<br><br>[Ver proyecto](https://github.com/lemical07/sistema-gestion-parqueo) | Maquetación de una interfaz de tienda online.<br><br>**Stack:** HTML · CSS<br><br>[Ver proyecto](https://github.com/lemical07/maquetacion-tienda-online) |
 
 </div>
 
