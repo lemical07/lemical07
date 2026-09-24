@@ -125,10 +125,6 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
   />
 </p>
 
-<p align="center">
-  <strong>En formación:</strong> Python · MySQL · PostgreSQL
-</p>
-
 <h2 align="center">Formación</h2>
 
 <table align="center">
