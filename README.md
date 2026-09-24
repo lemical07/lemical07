@@ -83,9 +83,13 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
   </tr>
 </table>
 
-<img
-src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,mysql,postgres,git,github,docker,vscode&perline=11"
-alt="Stack técnico"/>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,mysql,postgres,git,github,docker,vscode&perline=11"
+    alt="Stack técnico"
+  />
+</p>
+
 <br>
 
 <br><br>
