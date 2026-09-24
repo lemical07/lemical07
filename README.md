@@ -40,60 +40,43 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
 
 <h2 align="center">Panel de capacidades</h2>
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
     <th align="center">Backend</th>
     <th align="center">Frontend</th>
     <th align="center">Bases de datos</th>
-  </tr>
-  <tr>
-    <td align="center">Node.js</td>
-    <td align="center">HTML</td>
-    <td align="center">MySQL</td>
-  </tr>
-  <tr>
-    <td align="center">JavaScript</td>
-    <td align="center">CSS</td>
-    <td align="center">PostgreSQL</td>
-  </tr>
-  <tr>
-    <td align="center">Strapi</td>
-    <td align="center">JavaScript</td>
-    <td align="center">—</td>
-  </tr>
-  <tr>
-    <td align="center">APIs · Postman</td>
-    <td align="center">—</td>
-    <td align="center">—</td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
     <th align="center">Automatización</th>
     <th align="center">Herramientas</th>
     <th align="center">Electrónica</th>
   </tr>
   <tr>
+    <td align="center">Node.js</td>
+    <td align="center">HTML</td>
+    <td align="center">MySQL</td>
     <td align="center">n8n</td>
     <td align="center">Git</td>
     <td align="center">Arduino</td>
   </tr>
   <tr>
+    <td align="center">JavaScript</td>
+    <td align="center">CSS</td>
+    <td align="center">PostgreSQL</td>
     <td align="center">Telegram</td>
     <td align="center">GitHub</td>
     <td align="center">HC-SR04</td>
   </tr>
   <tr>
+    <td align="center">Strapi</td>
+    <td align="center">JavaScript</td>
+    <td align="center">—</td>
     <td align="center">Google Sheets</td>
     <td align="center">Docker</td>
     <td align="center">DHT22</td>
   </tr>
   <tr>
+    <td align="center">APIs · Postman</td>
+    <td align="center">—</td>
+    <td align="center">—</td>
     <td align="center">Google AI</td>
     <td align="center">VS Code</td>
     <td align="center">HC-SR501 · LDR</td>
