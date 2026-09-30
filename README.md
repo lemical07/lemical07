@@ -176,7 +176,7 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=lemical07&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=lemical07&theme=dark&hide_border=true&timezone=America/Guatemala"
     alt="GitHub Streak"
   />
 </p>
