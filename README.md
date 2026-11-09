@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a1628,50:0f2038,100:38bdf8&text=Selvin%20Eladio%20Lem%20Ical&fontColor=e8f1fb&fontSize=42&desc=Backend%20Developer%20Jr.&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a1628,50:0f2038,100:38bdf8&text=Selvin%20Eladio%20Lem%20Ical&fontColor=e8f1fb&fontSize=42&desc=T%C3%A9cnico%20en%20Desarrollo%20de%20Software&descSize=18&descAlignY=62&animation=fadeIn" alt="Header" width="100%" />
 
 <p align="center">
   <img
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+en+Desarrollo+de+Software;Backend+Jr.+%7C+APIs+con+Node.js+y+Strapi;Automatizaci%C3%B3n+con+n8n;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+en+Desarrollo+de+Software;Desarrollo+Web+%7C+APIs+con+Node.js+y+Strapi;Automatizaci%C3%B3n+con+n8n;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 Zona 6, Guatemala · Remoto / Híbrido
 
-Desarrollador backend en formación con experiencia práctica construyendo y probando APIs con Node.js, Strapi y Redis. Actualmente colaboro en el desarrollo backend de un sistema de gestión de órdenes (OMS) y en ALBA, una app de salud y adherencia farmacológica, mientras continúo mi formación como Técnico en Desarrollo de Software en Campuslands.
+Técnico en Desarrollo de Software con experiencia práctica construyendo y probando APIs con Node.js, Strapi y Redis. Actualmente colaboro en el desarrollo backend de un sistema de gestión de órdenes (OMS) y en ALBA, una app de salud y adherencia farmacológica, mientras continúo mi formación en Campuslands.
 
 <br>
 
@@ -72,6 +72,13 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <strong>Tienda en línea</strong> — Maquetación de una interfaz de tienda online.
+  <br>
+  <strong>Stack:</strong> HTML · CSS ·
+  <a href="https://github.com/lemical07/maquetacion-tienda-online">Ver proyecto</a>
+</p>
 
 <h2 align="center">Panel de capacidades</h2>
 
@@ -215,7 +222,7 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
   <a href="https://lemical07.github.io/my-portafolio/"><img src="https://img.shields.io/badge/Portafolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>&nbsp;
   <a href="https://www.linkedin.com/in/selvin-lem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="tel:+50259369448"><img src="https://img.shields.io/badge/Teléfono-5936%209448-111827?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"></a>&nbsp;
-  <a href="mailto:caleladio@gmail.com"><img src="https://img.shields.io/badge/Correo-caleladio%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>&nbsp;
+  <a href="mailto:caleladio@gmail.com"><img src="https://img.shields.io/badge/Correo-icaleladio%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>&nbsp;
   <a href="https://github.com/lemical07"><img src="https://img.shields.io/badge/GitHub-lemical07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
   <a href="https://discord.com/users/ikl_13s"><img src="https://img.shields.io/badge/Discord-ikl__13s-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
