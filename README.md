@@ -17,13 +17,13 @@
 
 ### Técnico en Desarrollo de Software
 
-Guatemala, Guatemala · Remoto / Híbrido
+Zona 6, Guatemala · Remoto / Híbrido
 
-Desarrollador backend en formación con experiencia práctica construyendo y probando APIs con Strapi y Postman. Actualmente colaboro en un proyecto real de actualización de plataforma y continúo mi formación como Desarrollador FullStack en Campuslands.
+Desarrollador backend en formación con experiencia práctica construyendo y probando APIs con Node.js, Strapi y Redis. Actualmente colaboro en el desarrollo backend de un sistema de gestión de órdenes (OMS) y en ALBA, una app de salud y adherencia farmacológica, mientras continúo mi formación como Técnico en Desarrollo de Software en Campuslands.
 
 <br>
 
-<a href="https://www.linkedin.com/in/selvin-lem-764078425/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://lemical07.github.io/my-portafolio/"><img src="https://img.shields.io/badge/Portafolio-Proyectos-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>
+<a href="https://www.linkedin.com/in/selvin-lem/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://lemical07.github.io/my-portafolio/"><img src="https://img.shields.io/badge/Portafolio-Proyectos-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>
 
 </div>
 
@@ -32,17 +32,30 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
 
 <table align="center">
   <tr>
-    <td align="center"><strong>Actualización de plataforma OMS</strong></td>
-    <td align="center"><strong>TutorBot</strong></td>
+    <td align="center"><strong>OMS Backend — SoftPlus GT</strong></td>
+    <td align="center"><strong>ALBA — Campuslands GT</strong></td>
   </tr>
   <tr>
     <td>
-      Construcción y prueba de APIs con Strapi 5, incluyendo operaciones CRUD completas mediante Postman. Resolución de un bloqueo de entorno migrando la ejecución de Docker a Node.js local.
+      Desarrollo de backend/API a la medida para un sistema de gestión de órdenes, normalizando la base de datos e implementando validaciones y manejo centralizado de errores con Node.js, Redis y WebSocket en tiempo real. Configuración del entorno y despliegue con Docker, con documentación y testing a la medida de cada servicio.
       <br><br>
-      <strong>Stack:</strong> Strapi 5 · Node.js · Postman · Docker
+      <strong>Stack:</strong> Node.js · Redis · WebSocket · Docker · Testing
       <br><br>
-      <strong>Experiencia profesional</strong>
+      <strong>Experiencia profesional · 2026 – En desarrollo</strong>
     </td>
+    <td>
+      Colaboro como Dev 7 en un equipo de 10 desarrolladores en una app móvil de salud y adherencia farmacológica para adultos mayores. Participo en el módulo del cuidador, QR y botiquín: alertas, notificaciones push con Firebase Cloud Messaging (FCM), carga de imágenes a Firebase Storage y seguimiento de la adherencia al tratamiento.
+      <br><br>
+      <strong>Stack:</strong> Firebase (FCM, Storage) · Node.js
+      <br><br>
+      <strong>Experiencia profesional · 2026 – En desarrollo</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>TutorBot</strong></td>
+    <td align="center"><strong>Gestión de Parque Vehicular</strong></td>
+  </tr>
+  <tr>
     <td>
       Automatización de tutorías mediante asignación, validación de identidad y notificaciones automáticas al maestro y materia correspondiente.
       <br><br>
@@ -50,25 +63,12 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
       <br><br>
       <a href="https://github.com/canuxantonio502/automatizacion_tutorbot_n8n">Ver proyecto</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Gestión de Parque Vehicular</strong></td>
-    <td align="center"><strong>Tienda en línea</strong></td>
-  </tr>
-  <tr>
     <td>
-      Sistema de control de estacionamiento para diferentes tipos de vehículos y gestión de espacios.
+      Sistema de control de estacionamiento para 4 tipos de vehículo (moto, carro, bus y camión) con selección de espacio por cliente.
       <br><br>
       <strong>Stack:</strong> HTML · CSS · JavaScript
       <br><br>
       <a href="https://github.com/lemical07/sistema-gestion-parqueo">Ver proyecto</a>
-    </td>
-    <td>
-      Maquetación de una interfaz de tienda online.
-      <br><br>
-      <strong>Stack:</strong> HTML · CSS
-      <br><br>
-      <a href="https://github.com/lemical07/maquetacion-tienda-online">Ver proyecto</a>
     </td>
   </tr>
 </table>
@@ -82,7 +82,6 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
     <th align="center">Bases de datos</th>
     <th align="center">Automatización</th>
     <th align="center">Herramientas</th>
-    <th align="center">Electrónica</th>
   </tr>
   <tr>
     <td align="center">Node.js</td>
@@ -90,37 +89,33 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
     <td align="center">MySQL</td>
     <td align="center">n8n</td>
     <td align="center">Git</td>
-    <td align="center">Arduino</td>
   </tr>
   <tr>
-    <td align="center">JavaScript</td>
+    <td align="center">Express</td>
     <td align="center">CSS</td>
-    <td align="center">PostgreSQL</td>
+    <td align="center">Redis</td>
     <td align="center">Telegram</td>
     <td align="center">GitHub</td>
-    <td align="center">HC-SR04</td>
   </tr>
   <tr>
-    <td align="center">Strapi</td>
+    <td align="center">Strapi 5</td>
     <td align="center">JavaScript</td>
     <td align="center">—</td>
     <td align="center">Google Sheets</td>
-    <td align="center">Docker</td>
-    <td align="center">DHT22</td>
+    <td align="center">Docker (básico)</td>
   </tr>
   <tr>
-    <td align="center">APIs · Postman</td>
+    <td align="center">WebSocket · Postman</td>
     <td align="center">—</td>
     <td align="center">—</td>
     <td align="center">Google AI</td>
     <td align="center">VS Code</td>
-    <td align="center">HC-SR501 · LDR</td>
   </tr>
 </table>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,js,html,css,python,mysql,postgres,git,github,docker,vscode&perline=11"
+    src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,redis,mysql,git,github,docker,vscode&perline=11"
     alt="Stack técnico"
   />
 </p>
@@ -133,28 +128,22 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
   </tr>
   <tr>
     <td align="left">
-      <strong>Desarrollador FullStack — Campuslands</strong><br>
-      2026 · Presente
+      <strong>Técnico en Desarrollo de Software — Campuslands GT</strong><br>
+      2026 · Presente<br>
+      Formación en desarrollo de software: frontend, backend, APIs y proyectos reales.
     </td>
   </tr>
   <tr>
     <td align="left">
       <strong>Bachillerato en Ciencias y Letras, Orientación en Electrónica Industrial</strong><br>
-      2024 · 2025<br>
-      Graduado con honores · Medalla de Oro al mejor promedio de la carrera.
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>Educación complementaria</strong><br>
-      Certificaciones INTECAP · Diplomado DIGEEX<br>
-      Electricidad Industrial · Soldadura Industrial · Mecánica Automotriz · Carpintería
+      2024 · 2025 — Escuela Experimental Villa de los Niños<br>
+      Graduado con honores.
     </td>
   </tr>
   <tr>
     <td align="left">
       <strong>Idiomas</strong><br>
-      Pocomchí — Materno · Inglés — Básico
+      Pocomchí — Materno · Inglés — Intermedio
     </td>
   </tr>
 </table>
@@ -194,19 +183,25 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
 
 <table align="center">
   <tr>
-    <td align="center">Comunicación directa ante problemas técnicos.</td>
+    <td align="center">Comunicación clara y directa: expreso mis ideas con claridad y respeto.</td>
   </tr>
   <tr>
-    <td align="center">Iniciativa para proponer alternativas y soluciones.</td>
+    <td align="center">Perseverancia: no me rindo ante los retos; cumplo mis metas con constancia.</td>
   </tr>
   <tr>
-    <td align="center">Adaptabilidad y capacidad para explicar conocimientos.</td>
+    <td align="center">Adaptabilidad: me adapto con facilidad a entornos, herramientas y proyectos nuevos.</td>
   </tr>
   <tr>
-    <td align="center">Apertura a la retroalimentación técnica.</td>
+    <td align="center">Aprendizaje continuo: aprendo probando, construyendo y mejorando.</td>
   </tr>
   <tr>
-    <td align="center">Gestión de prioridades bajo presión.</td>
+    <td align="center">Sentido del diseño: priorizo interfaces minimalistas, elegantes y coherentes.</td>
+  </tr>
+  <tr>
+    <td align="center">Trabajo en equipo: colaboro con respeto y lealtad, y celebro los logros de mis compañeros.</td>
+  </tr>
+  <tr>
+    <td align="center">Gestión bajo presión: mantengo la calma y la concentración cuando aumenta la exigencia.</td>
   </tr>
 </table>
 
@@ -218,8 +213,9 @@ Desarrollador backend en formación con experiencia práctica construyendo y pro
 
 <p align="center">
   <a href="https://lemical07.github.io/my-portafolio/"><img src="https://img.shields.io/badge/Portafolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/selvin-lem-764078425/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/selvin-lem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="tel:+50259369448"><img src="https://img.shields.io/badge/Teléfono-5936%209448-111827?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"></a>&nbsp;
-  <a href="mailto:icaleladio@gmail.com"><img src="https://img.shields.io/badge/Correo-icaleladio%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>&nbsp;
+  <a href="mailto:caleladio@gmail.com"><img src="https://img.shields.io/badge/Correo-caleladio%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>&nbsp;
+  <a href="https://github.com/lemical07"><img src="https://img.shields.io/badge/GitHub-lemical07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
   <a href="https://discord.com/users/ikl_13s"><img src="https://img.shields.io/badge/Discord-ikl__13s-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
