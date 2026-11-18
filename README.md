@@ -100,7 +100,6 @@ Técnico en Desarrollo de Software con experiencia práctica construyendo y prob
   <tr>
     <td align="center">Express</td>
     <td align="center">CSS</td>
-    <td align="center">Redis</td>
     <td align="center">Telegram</td>
     <td align="center">GitHub</td>
   </tr>
@@ -122,7 +121,7 @@ Técnico en Desarrollo de Software con experiencia práctica construyendo y prob
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,redis,mysql,git,github,docker,vscode&perline=11"
+    src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,mysql,git,github,docker,vscode&perline=11"
     alt="Stack técnico"
   />
 </p>
